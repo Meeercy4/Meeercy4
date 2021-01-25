@@ -1,6 +1,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Mercyber4-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/Mercyber4)](https://twitter.com/Mercyber4) 
 [![Youtube Badge](https://img.shields.io/badge/-Mercyber4-000000?style=flat-square&labelColor=000000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC91XAyeWKtXdZGXcCVRrVKQ)](https://https://www.youtube.com/channel/UC91XAyeWKtXdZGXcCVRrVKQ)
-[![Instagram Badge](https://img.shields.io/badge/-Meeercy4-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/meercy4/)](https://www.instagram.com/meercy4/)
+[![Instagram Badge](https://img.shields.io/badge/-Mercyber4-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/meercy4/)](https://www.instagram.com/meercy4/)
 
 
 # 🚀 About me:
