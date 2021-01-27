@@ -14,5 +14,5 @@
 
 
 # 📝 I am studying:
-- [![forthebadge](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](https://pt.wikipedia.org/wiki/C)
+- [![forthebadge](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=000000)](https://pt.wikipedia.org/wiki/C)
 - [![forthebadge](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)](https://pt.wikipedia.org/wiki/C++)
